@@ -7,3 +7,7 @@
 ```bash
 composer require optimus/api-consumer 0.2.*
 ```
+
+## Changelog
+
+Renamed from `laravel-api-consumer` to `api-consumer` to allow overriding package from VCS. See: https://getcomposer.org/doc/05-repositories.md#loading-a-package-from-a-vcs-repository 
